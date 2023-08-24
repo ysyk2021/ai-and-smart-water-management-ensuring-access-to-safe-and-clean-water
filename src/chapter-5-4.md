@@ -1,5 +1,3 @@
-Demand Forecasting and Water Conservation
-====================================================================================================
 
 Demand forecasting and water conservation are essential components of smart water management. In this chapter, we will discuss how AI-based systems can be used for demand forecasting and water conservation.
 

@@ -1,5 +1,3 @@
-Remote Sensing and IoT Devices
-=======================================================================================
 
 Smart water management relies on accurate and timely data collection and analysis to optimize water usage, detect leaks, and monitor water quality. In this chapter, we will explore two important technologies for data collection in smart water management: remote sensing and IoT devices.
 

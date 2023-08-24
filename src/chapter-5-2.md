@@ -1,5 +1,3 @@
-Water Quality Monitoring and Treatment
-=================================================================================================
 
 Water quality monitoring is a critical component of smart water management, as it helps ensure that water is safe to drink and use. In this chapter, we will discuss how AI-based systems can be used for water quality monitoring and treatment.
 

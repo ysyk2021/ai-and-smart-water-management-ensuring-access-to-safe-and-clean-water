@@ -1,5 +1,3 @@
-GIS and Spatial Data Analysis
-======================================================================================
 
 GIS (Geographic Information System) and spatial data analysis are powerful tools for smart water management. By integrating spatial data with other sources of information, including real-time monitoring and predictive analytics, water providers can develop a comprehensive understanding of the water system. In this chapter, we will explore the role of GIS and spatial data analysis in smart water management.
 

@@ -1,5 +1,3 @@
-Overview of Smart Water Management
-========================================================================
 
 Smart water management is an approach to managing water resources that utilizes advanced technologies, including artificial intelligence (AI), to optimize the management of water resources. The primary objective of smart water management is to ensure access to safe and clean water for all, while also minimizing wastage and reducing operational costs.
 

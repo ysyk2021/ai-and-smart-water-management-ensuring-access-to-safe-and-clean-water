@@ -1,5 +1,3 @@
-The Need for AI-Based Smart Water Management
-==========================================================
 
 Water is one of the most fundamental resources on Earth, essential for human survival and economic development. However, the world is currently facing a water crisis, with over 2 billion people lacking access to safe and clean water.
 

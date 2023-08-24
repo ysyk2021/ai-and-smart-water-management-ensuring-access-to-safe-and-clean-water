@@ -1,5 +1,3 @@
-Leak Detection and Pipe Network Optimization
-=======================================================================================================
 
 Leak detection and pipe network optimization are crucial components of smart water management. In this chapter, we will discuss how AI-based systems can be used for leak detection and pipe network optimization.
 

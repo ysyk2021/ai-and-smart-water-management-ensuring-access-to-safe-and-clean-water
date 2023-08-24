@@ -1,5 +1,3 @@
-Objectives of the Book
-==================================================
 
 Access to safe and clean water is essential for human health and wellbeing. However, water resources are increasingly under threat due to a range of factors, including climate change, population growth, and pollution. In this book, we will explore how artificial intelligence (AI) can be used to address these challenges and ensure access to safe and clean water for all.
 

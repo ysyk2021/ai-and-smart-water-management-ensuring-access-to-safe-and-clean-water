@@ -1,5 +1,3 @@
-Best Practices for Ensuring Ethical and Responsible AI in Smart Water Management
-========================================================================================================
 
 As water utilities increasingly turn to AI-based systems in their efforts to manage water resources, it is important to ensure that these systems are developed and operated in an ethical and responsible manner. In this chapter, we will discuss some best practices for ensuring ethical and responsible AI in smart water management.
 

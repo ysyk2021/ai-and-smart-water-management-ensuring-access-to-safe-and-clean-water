@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Smart Water Management
-====================================================================================================================================
 
 Artificial intelligence (AI) has a wide range of applications in smart water management, from predictive maintenance to water quality monitoring. Different types of AI can be used in different ways to optimize resource management and ensure access to safe and clean water for all. In this chapter, we will explore the different types of AI and their applications in smart water management.
 

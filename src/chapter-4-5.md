@@ -1,5 +1,3 @@
-Social Media and User Behavior Tracking
-================================================================================================
 
 This chapter focuses on the importance of data collection and analysis in smart water management and explores the role of social media and user behavior tracking in this context. The chapter will cover the following topics:
 

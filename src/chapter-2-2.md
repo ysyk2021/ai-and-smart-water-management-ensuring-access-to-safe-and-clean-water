@@ -1,5 +1,3 @@
-Traditional Approaches to Water Management
-================================================================================
 
 Traditional approaches to water management have been in use for centuries. These approaches involve the construction of physical infrastructure to collect, transport, and distribute water to users. While these approaches have been successful in delivering water to populations around the world, they are facing increasing challenges due to population growth, climate change, and pollution.
 

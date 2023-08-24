@@ -1,5 +1,3 @@
-Overview of AI-Based Smart Water Management Techniques and Strategies
-================================================================================================================================
 
 AI-based smart water management systems utilize a variety of techniques and strategies to optimize water resource allocation, reduce wastage, and ensure access to safe and clean water for all. This chapter provides an overview of some of the key AI-based techniques and strategies used in smart water management.
 
