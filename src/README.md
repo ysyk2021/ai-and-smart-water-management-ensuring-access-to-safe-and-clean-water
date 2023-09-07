@@ -8,3 +8,7 @@ From remote sensing technologies to real-time monitoring systems, this book offe
 So, let's dive in and discover the exciting world of AI and smart water management!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

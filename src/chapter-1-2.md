@@ -46,4 +46,4 @@ AI is being used to monitor water quality and detect contaminants in real-time, 
 Conclusion
 ----------
 
-AI is an emerging technology that holds great promise for managing water resources more effectively. By utilizing machine learning, deep learning, natural language processing, and robotics, water managers can optimize resource allocation, reduce wastage, and improve the efficiency of water distribution and usage. The next chapter will provide an overview of smart water management and its key components.
+AI is an emerging technology that holds great promise for managing water resources more effectively. By utilizing machine learning, deep learning, natural language processing, and robotics, water managers can optimize resource allocation, reduce wastage, and improve the efficiency of water distribution and usage.
