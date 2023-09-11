@@ -1,5 +1,4 @@
-Chapter: Overview of Smart Water Management
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of smart water management and its significance in ensuring access to safe and clean water. We explore the key components, benefits, and challenges associated with implementing AI-driven solutions in water resource management.
 

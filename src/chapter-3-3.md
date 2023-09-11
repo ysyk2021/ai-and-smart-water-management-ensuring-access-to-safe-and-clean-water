@@ -1,5 +1,4 @@
-Chapter: Case Studies on the Use of AI in Smart Water Management
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we present case studies that demonstrate the application of AI in smart water management. These real-world examples showcase how AI technologies have been utilized to address various challenges in water resource management, water quality monitoring, infrastructure optimization, and decision-making processes.
 

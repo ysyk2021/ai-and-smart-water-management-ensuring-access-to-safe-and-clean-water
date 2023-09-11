@@ -1,5 +1,4 @@
-Chapter: Traditional Approaches to Water Management
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into traditional approaches to water management and their role in addressing access to safe and clean water. We discuss the key principles, strategies, and challenges associated with conventional methods of managing water resources.
 

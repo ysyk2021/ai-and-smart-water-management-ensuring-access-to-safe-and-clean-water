@@ -1,5 +1,4 @@
-Chapter: Leak Detection and Pipe Network Optimization
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the significance of leak detection and pipe network optimization in smart water management. We discuss the challenges associated with water leakage, the role of AI technologies in detecting and mitigating leaks, and strategies for optimizing pipe networks to ensure access to safe and clean water.
 

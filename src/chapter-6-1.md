@@ -1,5 +1,4 @@
-Chapter: Ethical Issues Associated with the Use of AI in Smart Water Management
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the ethical issues associated with the use of AI in smart water management. While AI technologies offer significant potential to address water challenges, it is crucial to identify and navigate the ethical considerations that arise from their implementation.
 

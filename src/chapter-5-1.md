@@ -1,5 +1,4 @@
-Chapter: Overview of AI-Based Smart Water Management Techniques and Strategies
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of AI-based smart water management techniques and strategies that play a crucial role in ensuring access to safe and clean water. We explore the application of artificial intelligence across various aspects of water management, including resource allocation, demand forecasting, infrastructure optimization, and decision-making processes.
 

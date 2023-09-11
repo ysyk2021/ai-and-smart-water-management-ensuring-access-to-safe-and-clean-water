@@ -1,5 +1,4 @@
-Chapter: Limitations and Challenges of Traditional Approaches
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the limitations and challenges associated with traditional approaches to water management. By understanding these constraints, we can better appreciate the need for AI-driven smart water management solutions to ensure access to safe and clean water.
 

@@ -1,5 +1,4 @@
-Chapter: Demand Forecasting and Water Conservation
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the critical role of demand forecasting in water management and its relationship to water conservation efforts. We delve into the application of AI technologies in accurately predicting water demand, understanding consumption patterns, and implementing strategies for efficient water use.
 

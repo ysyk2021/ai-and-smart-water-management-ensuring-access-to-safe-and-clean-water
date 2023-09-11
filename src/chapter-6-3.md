@@ -1,5 +1,4 @@
-Chapter: Future Directions and Challenges
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the future directions and challenges that lie ahead in the realm of AI and smart water management. As technology continues to advance and global water challenges persist, it is crucial to identify potential avenues for innovation while acknowledging the obstacles that may arise along the way.
 

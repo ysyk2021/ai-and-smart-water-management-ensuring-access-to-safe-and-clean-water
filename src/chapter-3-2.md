@@ -1,5 +1,4 @@
-Chapter: Advantages and Limitations of AI in Smart Water Management
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we examine the advantages and limitations of AI technologies in smart water management. We explore the various ways in which AI can enhance water resource management, improve operational efficiency, and enable effective decision-making. Additionally, we discuss the challenges and potential limitations associated with the implementation of AI in this context.
 

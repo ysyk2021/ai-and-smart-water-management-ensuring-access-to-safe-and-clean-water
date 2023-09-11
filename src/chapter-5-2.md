@@ -1,5 +1,4 @@
-Chapter: Water Quality Monitoring and Treatment
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the crucial aspects of water quality monitoring and treatment in the context of smart water management. We explore the challenges associated with maintaining safe and clean water sources, the role of AI technologies in water quality monitoring, and innovative approaches to water treatment.
 

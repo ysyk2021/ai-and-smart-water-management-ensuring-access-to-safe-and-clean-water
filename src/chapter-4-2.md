@@ -1,5 +1,4 @@
-Chapter: Remote Sensing and IoT Devices
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the role of remote sensing and IoT devices in AI-driven smart water management. Remote sensing technologies and IoT devices play a crucial role in collecting data, monitoring water resources, and enabling real-time decision-making, thus contributing to ensuring access to safe and clean water.
 
